@@ -270,6 +270,24 @@ Through this project, I gained experience in:
 
 ## Author
 
-Data Engineering Portfolio Project
+**Gomathy Priyadharshini**
 
-Built using Databricks Community Edition, PySpark, and Spark SQL.
+Senior Data Engineering Analyst with experience in designing and building scalable data solutions using modern data platforms and cloud technologies. Skilled in data engineering, ETL/ELT development, analytics, and transforming complex datasets into actionable business insights.
+
+This project demonstrates the implementation of a Medallion Architecture (Bronze, Silver, Gold) using Databricks, PySpark, and Spark SQL to build an end-to-end retail analytics pipeline.
+
+### Skills Demonstrated
+
+* Databricks
+* PySpark
+* Spark SQL
+* ETL / ELT Pipelines
+* Data Modeling
+* Data Transformation
+* Analytics Engineering
+* Git & GitHub
+
+### Connect
+
+* GitHub: https://github.com/GomathyPriyadharshini
+
