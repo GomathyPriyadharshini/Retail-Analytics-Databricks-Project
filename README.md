@@ -222,58 +222,6 @@ Measures revenue growth and decline using window functions.
 
 ## Screenshots
 
-### Bronze Layer
-
-#### File Ingestion
-![Bronze File Ingestion](screenshots/bronze_file_ingestion.png)
-
-#### Schema Validation
-![Bronze Schema Validation](screenshots/bronze_schema_validation.png)
-
----
-
-### Silver Layer
-
-#### Data Cleaning
-![Silver Data Cleaning](screenshots/silver_data_cleaning.png)
-
-#### Null Handling
-![Silver Null Handling](screenshots/silver_null_handling.png)
-
-#### Derived Columns
-![Silver Derived Columns](screenshots/silver_derived_columns.png)
-
----
-
-### Gold Layer
-
-#### Sales Summary KPI
-![Sales Summary KPI](screenshots/gold_sales_summary_kpi.png)
-
-#### Customer Revenue Metrics
-![Customer Revenue Metrics](screenshots/gold_customer_revenue_metrics.png)
-
-#### Product Metrics
-![Product Metrics](screenshots/gold_product_metrics.png)
-
-#### Country-wise Metrics
-![Country-wise Metrics](screenshots/gold_country_wise_metrics.png)
-
----
-
-### Analytics
-
-#### Top Revenue Product by Country
-![Top Revenue Product by Country](screenshots/analytics_top_revenue_product_by_country.png)
-
-#### Top 3 Customers by Country
-![Top 3 Customers by Country](screenshots/analytics_top_3_customers_by_country.png)
-
-#### Month-over-Month Revenue Analysis
-![Month-over-Month Revenue Analysis](screenshots/analytics_month_over_month_revenue_analysis.png)
-
-Example:
-
 ```text
 screenshots/
     ├── bronze_file_ingestion.png
