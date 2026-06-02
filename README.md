@@ -80,20 +80,31 @@ The objective of this project is to:
 Retail-Databricks-Analytics/
 │
 ├── notebooks/
-│   ├── bronze_to_silver.py
-│   ├── silver_to_gold.py
-│   └── analytics_queries.sql
+│   ├── 01_bronze_online_retail_ingestion.py
+│   ├── 02_silver_online_retail_transformation.py
+│   └── 03_gold_online_retail_business_metrics.py
+│   └── 04_Analytics_queries.py
 │
 ├── datasets/
+│   └── online_retail.csv
 │
 ├── screenshots/
 │
 ├── architecture/
+│   └── architecture.png
 │
 └── README.md
 ```
 
 ---
+
+## Dataset
+
+The data used in this project is based on the Online Retail Dataset obtained from Kaggle. The source dataset contains approximately 3 million rows of transactional retail data.
+
+Due to GitHub repository size limitations and to maintain a streamlined development experience, the complete dataset is not stored in this repository. Instead, a representative sample dataset is included to demonstrate the end-to-end data engineering workflow, including ingestion, transformation, data quality validation, and analytical reporting.
+
+All transformations and processing logic have been designed to operate on the full dataset without modification.
 
 ## Data Pipeline
 
